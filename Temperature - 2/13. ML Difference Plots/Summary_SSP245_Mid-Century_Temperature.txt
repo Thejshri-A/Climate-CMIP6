@@ -1,0 +1,14 @@
+SSP245 Mid-Century Temperature
+
+January sees increase in Temperature in zones [Bangladesh (+1.4°C), Bhutan (+0.9°C), Myanmar (+1.4°C), Zone 1 (+1.2°C), Zone 11 (+0.4°C), Zone 12 (+0.5°C), Zone 15 (+0.5°C), Zone 2 (+1.2°C), Zone 3 (+1.4°C), Zone 5 (+1.4°C), Zone 7 (+1.3°C), Zone 9 (+1.3°C)] and decrease in temperature in zones [None]
+February sees increase in Temperature in zones [Myanmar (+1.8°C), Zone 15 (+0.3°C), Zone 2 (+1.4°C), Zone 9 (+1.3°C)] and decrease in temperature in zones [Zone 1 (-1.3°C)]
+March sees increase in Temperature in zones [Bangladesh (+1.0°C), Bhutan (+1.6°C), Zone 12 (+0.4°C), Zone 3 (+1.3°C), Zone 9 (+2.5°C)] and decrease in temperature in zones [None]
+April sees increase in Temperature in zones [Bhutan (+1.5°C), Zone 1 (+1.8°C), Zone 2 (+0.5°C), Zone 5 (+1.4°C), Zone 6 (+1.8°C)] and decrease in temperature in zones [Zone 10 (-1.2°C)]
+May sees increase in Temperature in zones [Bhutan (+0.8°C), Zone 2 (+0.3°C)] and decrease in temperature in zones [Zone 10 (-1.1°C), Zone 13 (-1.2°C), Zone 14 (-1.0°C), Zone 7 (-1.0°C), Zone 8 (-1.8°C), Zone 9 (-0.9°C)]
+June sees increase in Temperature in zones [Afghanistan (+1.4°C), Bhutan (+0.7°C), Myanmar (+0.8°C), Zone 1 (+1.0°C), Zone 15 (+0.2°C)] and decrease in temperature in zones [Zone 13 (-0.5°C), Zone 14 (-0.8°C), Zone 6 (-0.7°C), Zone 8 (-1.0°C)]
+July sees increase in Temperature in zones [Bhutan (+0.4°C), Zone 12 (+0.4°C), Zone 6 (+0.6°C)] and decrease in temperature in zones [Nepal (-0.7°C), Zone 1 (-0.7°C), Zone 10 (-0.9°C), Zone 2 (-0.4°C), Zone 7 (-0.3°C)]
+August sees increase in Temperature in zones [Afghanistan (+1.0°C), Bangladesh (+0.3°C), Myanmar (+0.2°C), Zone 12 (+0.4°C), Zone 13 (+0.5°C), Zone 14 (+1.1°C), Zone 6 (+0.4°C), Zone 8 (+0.7°C)] and decrease in temperature in zones [Nepal (-0.7°C), Zone 1 (-0.6°C), Zone 10 (-0.9°C), Zone 2 (-0.8°C)]
+September sees increase in Temperature in zones [Afghanistan (+1.3°C), Bangladesh (+0.7°C), Bhutan (+0.5°C), Zone 1 (+1.7°C), Zone 2 (+0.5°C), Zone 3 (+0.4°C)] and decrease in temperature in zones [Nepal (-0.3°C), Zone 10 (-0.9°C)]
+October sees increase in Temperature in zones [Myanmar (+0.5°C), Zone 11 (+0.5°C), Zone 2 (+2.3°C)] and decrease in temperature in zones [Zone 10 (-0.7°C)]
+November sees increase in Temperature in zones [Bhutan (+0.9°C), Sri Lanka (+1.0°C), Zone 2 (+0.9°C)] and decrease in temperature in zones [Zone 15 (-0.2°C)]
+December sees increase in Temperature in zones [Sri Lanka (+0.6°C), Zone 11 (+0.5°C), Zone 7 (+0.6°C), Zone 9 (+0.5°C)] and decrease in temperature in zones [Zone 10 (-0.6°C)]
