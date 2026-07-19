@@ -1,0 +1,14 @@
+SSP585 Mid-Century Precipitation
+
+January sees increase in Precipitation in zones [Bangladesh (+0.4mm/day), Bhutan (+0.3mm/day), Nepal (+0.6mm/day), Zone 11 (+0.3mm/day), Zone 14 (+0.1mm/day), Zone 2 (+0.3mm/day), Zone 7 (+0.4mm/day)] and decrease in Precipitation  in zones [Zone 15 (-1.0mm/day)]
+February sees increase in Precipitation in zones [Nepal (+0.7mm/day), Sri Lanka (+1.3mm/day), Zone 11 (+0.3mm/day), Zone 13 (+0.2mm/day), Zone 14 (+0.1mm/day), Zone 8 (+0.1mm/day)] and decrease in Precipitation  in zones [None]
+March sees increase in Precipitation in zones [Sri Lanka (+1.7mm/day), Zone 13 (+0.3mm/day), Zone 15 (+0.5mm/day)] and decrease in Precipitation  in zones [Afghanistan (-0.7mm/day), Bangladesh (-1.3mm/day), Zone 4 (-0.5mm/day)]
+April sees increase in Precipitation in zones [Sri Lanka (+2.8mm/day), Zone 14 (+0.1mm/day), Zone 5 (+0.3mm/day), Zone 8 (+0.2mm/day)] and decrease in Precipitation  in zones [Bangladesh (-2.0mm/day), Zone 2 (-1.5mm/day), Zone 4 (-0.4mm/day)]
+May sees increase in Precipitation in zones [Zone 13 (+0.2mm/day), Zone 14 (+0.4mm/day)] and decrease in Precipitation  in zones [Nepal (-1.0mm/day), Zone 4 (-1.0mm/day)]
+June sees increase in Precipitation in zones [Afghanistan (+0.1mm/day), Sri Lanka (+2.7mm/day), Zone 14 (+1.1mm/day), Zone 8 (+1.8mm/day)] and decrease in Precipitation  in zones [Nepal (-2.6mm/day), Zone 12 (-3.6mm/day), Zone 15 (-4.6mm/day)]
+July sees increase in Precipitation in zones [None] and decrease in Precipitation  in zones [Zone 10 (-1.5mm/day)]
+August sees increase in Precipitation in zones [Afghanistan (+0.1mm/day), Nepal (+2.0mm/day)] and decrease in Precipitation  in zones [None]
+September sees increase in Precipitation in zones [Afghanistan (+0.3mm/day)] and decrease in Precipitation  in zones [None]
+October sees increase in Precipitation in zones [Afghanistan (+0.4mm/day), Sri Lanka (+3.9mm/day)] and decrease in Precipitation  in zones [None]
+November sees increase in Precipitation in zones [Nepal (+0.7mm/day), Zone 13 (+0.3mm/day), Zone 4 (+0.7mm/day)] and decrease in Precipitation  in zones [Myanmar (-0.6mm/day)]
+December sees increase in Precipitation in zones [Afghanistan (+0.5mm/day), Bhutan (+0.3mm/day), Sri Lanka (+3.0mm/day), Zone 11 (+1.3mm/day), Zone 13 (+0.2mm/day), Zone 14 (+0.1mm/day), Zone 2 (+0.6mm/day), Zone 3 (+0.4mm/day), Zone 7 (+0.3mm/day)] and decrease in Precipitation  in zones [None]

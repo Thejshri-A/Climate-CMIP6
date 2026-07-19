@@ -1,0 +1,14 @@
+SSP245 Mid-Century Precipitation
+
+January sees increase in Precipitation in zones [Zone 11 (+0.2mm/day), Zone 2 (+0.5mm/day), Zone 3 (+0.4mm/day), Zone 4 (+0.3mm/day)] and decrease in Precipitation  in zones [Zone 15 (-1.1mm/day), Zone 7 (-2.0mm/day), Zone 8 (-0.4mm/day)]
+February sees increase in Precipitation in zones [Sri Lanka (+1.1mm/day), Zone 10 (+0.1mm/day), Zone 11 (+0.2mm/day), Zone 12 (+0.1mm/day), Zone 14 (+0.2mm/day)] and decrease in Precipitation  in zones [Bangladesh (-0.4mm/day), Zone 15 (-0.4mm/day), Zone 7 (-2.7mm/day), Zone 8 (-0.5mm/day)]
+March sees increase in Precipitation in zones [Zone 11 (+0.3mm/day), Zone 14 (+0.2mm/day)] and decrease in Precipitation  in zones [Afghanistan (-0.8mm/day), Bangladesh (-1.5mm/day), Pakistan (-0.4mm/day), Zone 2 (-0.9mm/day), Zone 6 (-0.9mm/day), Zone 7 (-2.9mm/day), Zone 8 (-0.7mm/day)]
+April sees increase in Precipitation in zones [Zone 11 (+0.4mm/day), Zone 9 (+0.2mm/day)] and decrease in Precipitation  in zones [Zone 6 (-0.3mm/day), Zone 7 (-2.6mm/day), Zone 8 (-0.4mm/day)]
+May sees increase in Precipitation in zones [None] and decrease in Precipitation  in zones [Afghanistan (-0.2mm/day), Bhutan (-1.6mm/day), Zone 6 (-0.5mm/day), Zone 7 (-3.1mm/day), Zone 8 (-0.7mm/day)]
+June sees increase in Precipitation in zones [Pakistan (+0.3mm/day), Sri Lanka (+2.3mm/day)] and decrease in Precipitation  in zones [Nepal (-1.8mm/day), Zone 11 (-0.9mm/day), Zone 13 (-2.6mm/day), Zone 6 (-1.4mm/day), Zone 7 (-4.2mm/day), Zone 8 (-1.9mm/day), Zone 9 (-1.1mm/day)]
+July sees increase in Precipitation in zones [None] and decrease in Precipitation  in zones [Afghanistan (-0.0mm/day), Nepal (-1.7mm/day), Zone 11 (-0.9mm/day), Zone 13 (-7.8mm/day), Zone 5 (-2.2mm/day), Zone 6 (-3.6mm/day), Zone 7 (-3.0mm/day), Zone 8 (-3.1mm/day)]
+August sees increase in Precipitation in zones [None] and decrease in Precipitation  in zones [Zone 11 (-1.5mm/day), Zone 3 (-1.7mm/day), Zone 5 (-2.3mm/day), Zone 7 (-3.7mm/day)]
+September sees increase in Precipitation in zones [Pakistan (+0.3mm/day)] and decrease in Precipitation  in zones [Zone 10 (-1.5mm/day), Zone 15 (-4.5mm/day), Zone 7 (-3.2mm/day)]
+October sees increase in Precipitation in zones [Afghanistan (+0.2mm/day), Zone 6 (+0.7mm/day)] and decrease in Precipitation  in zones [Zone 7 (-2.0mm/day)]
+November sees increase in Precipitation in zones [Nepal (+0.2mm/day), Zone 14 (+0.1mm/day), Zone 2 (+1.1mm/day), Zone 4 (+0.7mm/day), Zone 6 (+0.4mm/day)] and decrease in Precipitation  in zones [Afghanistan (-0.3mm/day), Zone 7 (-1.9mm/day), Zone 8 (-0.3mm/day)]
+December sees increase in Precipitation in zones [Bangladesh (+0.5mm/day), Zone 11 (+0.8mm/day), Zone 12 (+0.3mm/day), Zone 14 (+0.1mm/day), Zone 2 (+0.5mm/day), Zone 4 (+0.5mm/day)] and decrease in Precipitation  in zones [Afghanistan (-0.2mm/day), Zone 7 (-2.4mm/day), Zone 8 (-0.6mm/day)]

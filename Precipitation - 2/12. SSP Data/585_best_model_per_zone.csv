@@ -1,0 +1,23 @@
+Zone,Model,Composite_Score
+Afghanistan,RandomForest,0.694
+Bangladesh,LightGBM,0.514
+Bhutan,CatBoost,0.641
+Myanmar,RandomForest,0.601
+Nepal,LightGBM,0.638
+Pakistan,GradientBoosting,0.7
+Sri Lanka,XGBoost,0.229
+Zone 1,GradientBoosting,0.696
+Zone 10,GradientBoosting,0.536
+Zone 11,LightGBM,0.646
+Zone 12,XGBoost,0.376
+Zone 13,LightGBM,0.481
+Zone 14,GradientBoosting,0.593
+Zone 15,RandomForest,0.372
+Zone 2,RandomForest,0.584
+Zone 3,RandomForest,0.535
+Zone 4,LinearRegression,0.599
+Zone 5,LightGBM,0.606
+Zone 6,LightGBM,0.621
+Zone 7,StackingEnsemble,0.656
+Zone 8,LightGBM,0.505
+Zone 9,LightGBM,0.575

@@ -1,0 +1,5 @@
+Zones where raw RMSE is better - SSP585 Scenario (2024)
+--------------------------------------------------
+Zone: Afghanistan, ML_RMSE:0.4392 CMIP6_RMSE: 0.3738
+Zone: Nepal, ML_RMSE:1.0287 CMIP6_RMSE: 1.0001
+Zone: Zone 4, ML_RMSE:1.2101 CMIP6_RMSE: 1.0680

@@ -1,0 +1,4 @@
+Zones where raw RMSE is better - SSP245 Scenario (2024)
+--------------------------------------------------
+Zone: Zone 13, ML_RMSE:2.0027 CMIP6_RMSE: 1.7627
+Zone: Zone 6, ML_RMSE:1.6414 CMIP6_RMSE: 1.5803
